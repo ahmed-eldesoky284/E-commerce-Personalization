@@ -31,7 +31,7 @@ This project involves customer segmentation based on purchasing behavior within 
 ## How to Use
 
 1. **Clone Repository:**
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/ahmed-eldesoky284/E-commerce-Personalization.git
 
 2. **Install Dependencies:**
 pip install pandas scikit-learn matplotlib
